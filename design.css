@@ -1,0 +1,105 @@
+body {
+    background-image:url(bg.jpg);
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: small;
+    color: gray;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.signup {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 20px;
+    width: 20%;
+}
+
+.input-box {
+    margin: 5px;
+}
+
+.btn {
+    background-color: #3B6790;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: none;
+}
+
+.btn:hover{
+    background-color: #1877F2;
+}
+
+.fb {
+    background-color: #1877F2;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: none;
+    border-color:#1877F2;
+}
+
+.fb:hover{
+    background-color: #3B6790;
+}
+
+.google {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: gray;
+    margin-top: 5px;
+    border: groove;
+    border-width: 1px;
+}
+
+.google:hover{
+    background-color: #D9E2DA;
+}
+
+.btntext {
+    display: inline-flex;
+    margin-top: 5px;
+    margin-right: 7px;
+}
+
+input {
+    width: 90%;
+    height: 10%;
+    padding: 10px;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+
+
